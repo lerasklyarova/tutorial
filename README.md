@@ -1,1 +1,1 @@
-advice electricity choice tobacco yet second east knife rhythm signal telephone excellent above bill press
+hurry sick without brush parallel desk worry independent hope putting pan vast atmosphere whenever sad
