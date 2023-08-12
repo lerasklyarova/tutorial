@@ -1,1 +1,1 @@
-cold change cat egg game friendly natural enemy bowl gulf people oxygen smell world tip
+attached hello as right everybody courage tribe replace direction honor plus area trade grow handle
