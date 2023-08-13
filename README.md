@@ -1,1 +1,1 @@
-attached hello as right everybody courage tribe replace direction honor plus area trade grow handle
+magic remove difficult standard famous memory nodded pet however breath future acres human parallel beyond
