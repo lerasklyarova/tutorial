@@ -1,1 +1,1 @@
-smaller shade heat wise easily drew farmer social appearance show directly closer eventually noon invented
+hot mile rays wash decide curious until above snake brother barn automobile halfway butter cloud
