@@ -1,1 +1,1 @@
-shine average former fur ants trade fastened element green discovery tree doubt purple quite ocean
+large scene throat private belong farther swing count percent shop feel direct support depend pig
