@@ -1,1 +1,1 @@
-gold afraid spring walk already lying firm uncle onto examine power power triangle sell captain
+pattern cat atom instance differ sunlight coming comfortable judge occur labor generally bridge willing instant
