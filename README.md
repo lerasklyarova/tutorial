@@ -1,1 +1,1 @@
-copy cap closer against zebra deep her dug goes hold state oil jump lesson contain
+telephone driving recall friendly important terrible composed would stems act troops frighten smallest mighty run
