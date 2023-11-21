@@ -1,1 +1,1 @@
-sharp scene rod bit bar properly organized group everyone exclaimed review serve anywhere consonant spoken
+run claws accurate her seat essential donkey information rush become spite exchange shine farmer dog
