@@ -1,1 +1,1 @@
-basket breathe telephone goose verb fast birth her cup slight cold something separate somewhere thank
+operation stage smile white valuable tomorrow news wish former beside difficulty whether leg quarter picture
