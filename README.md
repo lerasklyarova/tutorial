@@ -1,1 +1,1 @@
-machinery ancient blow balance scientific angry roar not deep sitting still chance occasionally buffalo driving
+lower control himself worse youth construction thirty fierce solution keep history shout prepare ranch track
