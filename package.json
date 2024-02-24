@@ -1,6 +1,6 @@
 {
   "name": "tutorial-noders",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple example of a package.json file with additional random dependencies",
   "main": "index.js",
   "scripts": {
