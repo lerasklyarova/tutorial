@@ -1,0 +1,41 @@
+{
+  "name": "tutorial-noders",
+  "version": "1.0.0",
+  "description": "A simple example of a package.json file with additional random dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerasklyarova/tutorial.git"
+  },
+  "keywords": [
+    "example",
+    "nodejs",
+    "tutorial"
+  ],
+  "author": "lerasklyarova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lerasklyarova/tutorial/issues"
+  },
+  "homepage": "https://github.com/lerasklyarova/tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "body-parser": "^1.19.0",
+    "morgan": "^1.10.0",
+    "axios": "^0.21.1",
+    "jsonwebtoken": "^8.5.1",
+    "bcrypt": "^5.0.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
