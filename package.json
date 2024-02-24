@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lerasklyarova/tutorial#readme",
   "dependencies": {
+    "hello-tean": "^1.0.0",
     "express": "^4.17.1",
     "mongoose": "^5.11.15",
     "cors": "^2.8.5",
